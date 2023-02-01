@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ehGV35TsokitD309J4VMAQ",
+  "Reference": "KsFQU5rJvUmdLnec8jVnbQ/ehGV35TsokitD309J4VMAQ",
+  "ParentRef": "KsFQU5rJvUmdLnec8jVnbQ/CEPCpbLyrESXmJULHKR84w",
+  "Name": "Sign Out",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-02-01T05:56:19.4318757Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-01T05:56:19.4318757Z"
+}

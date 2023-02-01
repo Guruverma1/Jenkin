@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VaWuISwftUyhUiUzVqCNvQ",
+  "Reference": "KsFQU5rJvUmdLnec8jVnbQ/VaWuISwftUyhUiUzVqCNvQ",
+  "ParentRef": "KsFQU5rJvUmdLnec8jVnbQ/CEPCpbLyrESXmJULHKR84w",
+  "Name": "Keep me",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2023-02-01T05:56:19.2855152Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-01T05:58:47.8852638Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

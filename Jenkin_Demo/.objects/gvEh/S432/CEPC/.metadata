@@ -1,0 +1,12 @@
+﻿{
+  "Id": "CEPCpbLyrESXmJULHKR84w",
+  "Reference": "KsFQU5rJvUmdLnec8jVnbQ/CEPCpbLyrESXmJULHKR84w",
+  "ParentRef": "KsFQU5rJvUmdLnec8jVnbQ/S432KVq-tkewvockXhUvEQ",
+  "Name": "Chrome: Amazon Sign In",
+  "Type": "Screen",
+  "Created": "2023-02-01T05:56:18.9091283Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-01T05:56:18.9091283Z"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Id": "gvEhbELlbUiYvp6yOdN5hA",
+  "Reference": "KsFQU5rJvUmdLnec8jVnbQ/gvEhbELlbUiYvp6yOdN5hA",
+  "Name": "Chrome: Amazon Sign In app",
+  "Type": "App",
+  "Created": "2023-02-01T05:56:18.8542826Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-01T05:56:18.8542826Z"
+}
